@@ -1,0 +1,41 @@
+/*
+ESTA PERSONAIIZACION SE MUEVE A LA PERSONALIZACION
+UNICA DE CADA COMPONENTE, ES DECIR SE MUEVE A: TFC.css
+
+.md-followCard {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: .8rem;
+}
+
+.md-followCard-header{
+    display: flex;
+    align-items: center;
+    gap: 4px
+}
+
+.md-followCard-info{
+    display: flex;
+    flex-direction: column; 
+}
+
+.md-followCard-infoUserName{
+    opacity: .6;
+}
+
+.md-followCard-avatar{
+    width: 48px;
+    height: 48px;
+    border-radius: 1000px;
+}
+
+.md-followCard-button{
+    margin-left: 30px;
+    border: 0;
+    border-radius: 999px;
+    padding: 6px 16px;
+    font-weight: bold;
+}
+
+*/
